@@ -18,10 +18,10 @@ Concepts Learned: Test Driven Development, Object Oriented Programming, Debuggin
 ### Major Projects (Links are internal to Shopify only)
   > Note: These projects are only a few of the many that were completed on the Training Path.
 - DEV
-  - [Textogram](projects/devdegree/dev/textogram.md)
+  - [Textogram](projects/devdegree/dev/textogram/textogram.md)
   - [Weather App](projects/devdegree/dev/weather_app.md)
-- FED
   - [Cashmoney](projects/devdegree/fed/cashmoney.md)
+- FED
   - [Scientific Calculator](projects/devdegree/fed/scientific-calculator.md)
   - [Guessing Game](projects/devdegree/fed/guessing-game.md)
 - RAILS
