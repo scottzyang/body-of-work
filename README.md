@@ -15,7 +15,7 @@ Tools & Technologies: Git/GitHub, HTML, CSS, JavaScript, TypeScript, React.js, R
 
 Concepts Learned: Test Driven Development, Object Oriented Programming, Debugging, MVC Architecture, CRUD, REST, Entity Relational Diagrams/Cardinalities
 
-### Major Projects (Links are internal to Shopify only)
+### Major Projects
   > Note: These projects are only a few of the many that were completed on the Training Path.
 - DEV
   - [Textogram](projects/devdegree/dev/textogram/textogram.md)
