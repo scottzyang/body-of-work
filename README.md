@@ -6,7 +6,7 @@ The [Shopify Dev Degree](https://devdegree.ca) program is a work-integrated lear
 The Training Path consists of the four primary courses below:
 - DEV - Programming Fundamentals
 - FED - Frontend Development, JavaScript/TypeScript, React.js
-- DATA - SQL Databases
+- DATA - Databases
 - RAILS - Backend Development, Ruby on Rails
 
 Following my conclusion of the Training Path at the end of April 2023, I will immediately be joining the Rails in Core team - a subteam under the Ruby & Rails Infrastructure umbrella.
