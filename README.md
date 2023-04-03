@@ -16,20 +16,31 @@ Tools & Technologies: Git/GitHub, HTML, CSS, JavaScript, TypeScript, React.js, R
 Concepts Learned: Test Driven Development, Object Oriented Programming, Debugging, MVC Architecture, CRUD, REST, Entity Relational Diagrams/Cardinalities
 
 ### Major Projects (Links are internal to Shopify only)
+  > Note: These projects are only a few of the many that were completed on the Training Path.
+- DEV
   - [Weather App](projects/devdegree/dev/weather_app.md)
   - [Textogram](projects/devdegree/dev/textogram.md)
+- FED
   - [Cashmoney](projects/devdegree/fed/cashmoney.md)
   - [Scientific Calculator](projects/devdegree/fed/scientific-calculator.md)
   - [Guessing Game](projects/devdegree/fed/guessing-game.md)
+- RAILS
   - [Bubble Tea Shop](projects/devdegree/rails/bubble-tea.md)
   - [Note Taking App](projects/devdegree/rails/note-app.md)
+
 
 ## Dominican University of California - Applied Computer Science Student
 Currently an Applied Computer Science student at the Dominican University of California with a Backend Development concentration.
 
-#### Major Projects
-- FotoFilter
-- KickUp App
-- Project 3
+### Major Projects
+> Note: To view more projects, please view my [list of repos](https://github.com/scottzyang?tab=repositories) on GitHub
+- Programming Basics (CS/WEB)
+  - [Star Wars](projects/dominican/cs-web/starwars.md)
+  - [Herd Immunity](projects/dominican/cs-web/herd-immunity.md)
+- Backend Development
+  - [KickUp App](projects/dominican/backend/kickup.md)
+- Frontend Development
+  - [FotoFilter](projects/dominican/frontend/fotofilter.md)
+  - [Breakout Game](projects/dominican/frontend/breakout.md)
 - Project 4
 - Project 5
