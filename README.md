@@ -18,8 +18,8 @@ Concepts Learned: Test Driven Development, Object Oriented Programming, Debuggin
 ### Major Projects (Links are internal to Shopify only)
   > Note: These projects are only a few of the many that were completed on the Training Path.
 - DEV
-  - [Weather App](projects/devdegree/dev/weather_app.md)
   - [Textogram](projects/devdegree/dev/textogram.md)
+  - [Weather App](projects/devdegree/dev/weather_app.md)
 - FED
   - [Cashmoney](projects/devdegree/fed/cashmoney.md)
   - [Scientific Calculator](projects/devdegree/fed/scientific-calculator.md)
@@ -42,5 +42,4 @@ Currently an Applied Computer Science student at the Dominican University of Cal
 - Frontend Development
   - [FotoFilter](projects/dominican/frontend/fotofilter.md)
   - [Breakout Game](projects/dominican/frontend/breakout.md)
-- Project 4
-- Project 5
+  - [Weather API](projects/dominican/frontend/weatherapi.md)
