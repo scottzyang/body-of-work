@@ -19,7 +19,7 @@ Concepts Learned: Test Driven Development, Object Oriented Programming, Debuggin
   > Note: These projects are only a few of the many that were completed on the Training Path.
 - DEV
   - [Textogram](projects/devdegree/dev/textogram/textogram.md)
-  - [Weather App](projects/devdegree/dev/weather_app.md)
+  - [Weather App](projects/devdegree/dev/weather_app/weather_app.md)
   - [Cashmoney](projects/devdegree/fed/cashmoney.md)
 - FED
   - [Scientific Calculator](projects/devdegree/fed/scientific-calculator.md)
