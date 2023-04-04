@@ -20,7 +20,7 @@ Concepts Learned: Test Driven Development, Object Oriented Programming, Debuggin
 - DEV
   - [Textogram](projects/devdegree/dev/textogram/textogram.md)
   - [Weather App](projects/devdegree/dev/weather_app/weather_app.md)
-  - [Cashmoney](projects/devdegree/fed/cashmoney.md)
+  - [Cashmoney](projects/devdegree/dev/cashmoney/cashmoney.md)
 - FED
   - [Scientific Calculator](projects/devdegree/fed/scientific-calculator.md)
   - [Guessing Game](projects/devdegree/fed/guessing-game.md)
@@ -29,7 +29,7 @@ Concepts Learned: Test Driven Development, Object Oriented Programming, Debuggin
   - [Note Taking App](projects/devdegree/rails/note-app.md)
 
 
-## Dominican University of California - Applied Computer Science Student
+## Dominican University of California - Applied Computer Science Student (In Progress)
 Currently an Applied Computer Science student at the Dominican University of California with a Backend Development concentration.
 
 ### Major Projects
